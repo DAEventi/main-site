@@ -697,51 +697,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-tOI6RTHOyU {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #edefeb;
-}
-.cid-tOI6RTHOyU .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tOI6RTHOyU .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-tOI6RTHOyU .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-tOI6RTHOyU .row {
-  flex-direction: row-reverse;
-}
-.cid-tOI6RTHOyU .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-tOI6RTHOyU .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-tOI6RTHOyU .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-tOI6RTHOyU .mbr-section-title {
-  color: #000000;
-}
-.cid-tOI6RTHOyU .mbr-text,
-.cid-tOI6RTHOyU .mbr-section-btn {
-  color: #232323;
-}
 .cid-tOI8XJuAsI {
   z-index: 1000;
   width: 100%;
@@ -1116,10 +1071,55 @@ a {
     left: -1rem;
   }
 }
+.cid-tOI6RTHOyU {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #edefeb;
+}
+.cid-tOI6RTHOyU .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tOI6RTHOyU .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tOI6RTHOyU .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tOI6RTHOyU .row {
+  flex-direction: row-reverse;
+}
+.cid-tOI6RTHOyU .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-tOI6RTHOyU .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-tOI6RTHOyU .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-tOI6RTHOyU .mbr-section-title {
+  color: #000000;
+}
+.cid-tOI6RTHOyU .mbr-text,
+.cid-tOI6RTHOyU .mbr-section-btn {
+  color: #232323;
+}
 .cid-tOIhrHF4r9 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background: #edefeb;
+  background-image: url("../../../assets/images/background1.jpeg");
 }
 .cid-tOIhrHF4r9 .mbr-fallback-image.disabled {
   display: none;
